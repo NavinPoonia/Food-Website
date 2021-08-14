@@ -1,6 +1,7 @@
-# Food-Website
-Making a RESPONSIVE Food Website Design Using HTML and CSS (Responsive)
+Making a RESPONSIVE Food Website Design Using HTML and CSS
 
-This Was My First Frontend Design During Web Developement Course
+This Was My First Frontend Design During Web Developement
 
-link - https://navinpoonia.github.io/Foodwebsite/
+To See The Page Visit :
+
+https://navinpoonia.github.io/Foodwebsite/
